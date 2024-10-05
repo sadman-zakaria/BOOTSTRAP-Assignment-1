@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wdth,wght@90.7,300..700&family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family:"Noto Serif", serif;
+    
+}
+
+
+.card{
+    border-radius: 30px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 0.0625em 0.0625em, Orgba(0, 0, 0, 0.25) 0px 0.125em 0.5cm, rgba(255, 255, 255, 0.1) врх орх арх 1рх
+}
+
+::-webkit-scrollbar{
+    width: 7px;
+    height: 5px;
+
+}
+
+
+::-webkit-scrollbar-thumb{
+    background: #F44335;
+}
+
+
+
+ 
